@@ -10,4 +10,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Responsive-Restaurant-Site
